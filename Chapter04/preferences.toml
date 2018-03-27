@@ -1,0 +1,12 @@
+[person]
+name = "Jan Nils Ferner"
+email = "jn_ferner@hotmail.de"
+
+[language]
+display = "en-GB"
+autocorrect = ["en-GB", "en-US", "de-CH"]
+
+[privacy]
+share_anonymous_statistics = false
+public_name = true
+public_email = true

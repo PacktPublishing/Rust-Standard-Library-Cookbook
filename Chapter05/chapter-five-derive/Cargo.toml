@@ -1,0 +1,11 @@
+[package]
+name = "chapter-five-derive"
+version = "0.1.0"
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "0.11.11"
+quote = "0.3.15"

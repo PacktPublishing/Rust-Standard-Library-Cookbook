@@ -1,0 +1,9 @@
+[package]
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+name = "chapter_three"
+version = "0.1.0"
+[dependencies]
+byteorder = "1.1.0"
+flate2 = "0.2.20"
+glob = "0.2.11"
+walkdir = "2.0.1"

@@ -1,0 +1,7 @@
+[package]
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+name = "chapter-seven"
+version = "0.1.0"
+[dependencies]
+rand = "0.4.2"
+rayon = "0.9.0"

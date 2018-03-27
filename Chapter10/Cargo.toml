@@ -1,0 +1,8 @@
+[package]
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+name = "chapter-ten"
+version = "0.1.0"
+[dependencies]
+futures-await = "0.1.0"
+tokio-core = "0.1.12"
+tokio-io = "0.1.5"

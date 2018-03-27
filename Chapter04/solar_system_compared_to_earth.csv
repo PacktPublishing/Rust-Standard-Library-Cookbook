@@ -1,0 +1,9 @@
+name,radius,distance_from_sun,gravity
+Mercury,0.38,0.47,0.38
+Venus,0.95,0.73,0.9
+Earth,1,1,1
+Mars,0.53,1.67,0.38
+Jupiter,11.21,5.46,2.53
+Saturn,9.45,10.12,1.07
+Uranus,4.01,20.11,0.89
+Neptune,3.88,30.33,1.14

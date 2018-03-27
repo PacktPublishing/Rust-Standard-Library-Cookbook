@@ -1,0 +1,3 @@
+New content
+Some more content
+Last line in the file, goodbye

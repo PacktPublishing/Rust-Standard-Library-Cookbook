@@ -1,0 +1,10 @@
+[package]
+name = "chapter_five"
+version = "0.1.0"
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+
+[dependencies]
+lazy_static = "1.0"
+regex = "0.2"
+bitflags = "1.0"
+chapter-five-derive = { path = "chapter-five-derive" }

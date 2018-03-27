@@ -1,0 +1,8 @@
+[package]
+name = "chapter_one"
+version = "0.1.0"
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+
+[dependencies]
+rand = "0.3"
+regex = "0.2"

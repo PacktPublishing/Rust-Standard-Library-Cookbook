@@ -1,0 +1,6 @@
+[package]
+authors = ["Jan Nils Ferner <jn_ferner@hotmail.de>"]
+name = "chapter_two"
+version = "0.1.0"
+[dependencies]
+slab = "0.4.0"
