@@ -19,7 +19,7 @@ impl NameLength {
     fn new(name: &str) -> Self {
         NameLength {
             length: name.len(),
-            name.to_string(),
+            name: name.to_string(),
         }
     }
 
